@@ -4,5 +4,4 @@
 
 #### $git rebase -i Head~3
 
-#### just for practice
-*** added some lines *** 
+#### included index.html and index.css file
