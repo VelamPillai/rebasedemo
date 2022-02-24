@@ -1,4 +1,9 @@
 body{
     background-color: royalblue;
     color: beige;
+
+}
+
+h1{
+    border: 5px solid red;
 }
