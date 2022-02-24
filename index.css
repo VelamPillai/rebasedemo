@@ -11,3 +11,8 @@ h1{
 p{
     font-weight: bolder;
 }
+
+#com
+{
+    border: 10px double darkgrey;
+}
